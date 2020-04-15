@@ -1,7 +1,7 @@
 # MiAI_JAV
 Use facenet to detect JAV =))
 
-Article link: http://ainoodle.tech/2020/01/13/ket-hop-object-detection-va-object-tracking-xay-dung-he-thong-dem-phuong-tien-giao-thong-tren-duong/
+Article link: https://miai.vn/2020/04/15/thu-lam-model-nhan-dien-dien-vien-ji-a-ve-trong-video-bang-facenet-tren-keras/
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
